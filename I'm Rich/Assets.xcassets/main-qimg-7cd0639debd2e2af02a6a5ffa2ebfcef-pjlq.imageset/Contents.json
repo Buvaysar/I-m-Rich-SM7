@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "main-qimg-7cd0639debd2e2af02a6a5ffa2ebfcef-pjlq.jpeg",
+      "filename" : "WallpaperDog-5563651.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "WallpaperDog-5563651@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "WallpaperDog-5563651@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
